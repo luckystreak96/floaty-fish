@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+score.txt
+
+
 **/lib/lwjgl/doc/**/*
 
 # Log file
