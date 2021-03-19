@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="floaty-fish:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/floaty_fish_jar</output-path>
+    <root id="archive" name="floaty-fish.jar">
+      <element id="module-output" name="floaty-fish" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/floaty-fish.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
