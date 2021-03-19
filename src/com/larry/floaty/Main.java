@@ -74,7 +74,7 @@ public class Main implements Runnable {//implementing runnable is necessary for 
 		glfwSetKeyCallback(window, inputNoGC);//setup the input so it'll read it
 
 		glfwMakeContextCurrent(window);
-		glfwSwapInterval(0);
+		glfwSwapInterval(1);
 		glfwShowWindow(window);//create the window tho
 		GL.createCapabilities();//open the openGL context
 

@@ -1,9 +1,6 @@
 package com.larry.floaty.sound;
 
-import sun.java2d.pipe.SpanShapeRenderer;
-
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 
 import javax.sound.sampled.AudioFormat;

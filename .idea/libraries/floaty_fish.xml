@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="floaty-fish">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/floaty-fish.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
